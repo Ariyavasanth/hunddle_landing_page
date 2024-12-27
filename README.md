@@ -46,7 +46,6 @@ I leaned TailwindCSS with this challenge i made it. And also i learned media que
 
 ## Author
 
-- Website - [hunddle_landing_page](https://hunddle.netlify.app/)
 - Frontend Mentor - [Ariyavasanth](https://www.frontendmentor.io/profile/Ariyavasanth)
 
 
