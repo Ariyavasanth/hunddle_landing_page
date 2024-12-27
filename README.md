@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Hunddle](https://hunddle.netlify.app)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Hunddle](https://hunddle.netlify.app)
 
 ## My process
 
